@@ -2,9 +2,6 @@ package seo.dale.practice.pattern.state.vending;
 
 import org.junit.Before;
 import org.junit.Test;
-import seo.dale.practice.pattern.state.vending.state.NoMoneytate;
-import seo.dale.practice.pattern.state.vending.state.OutOfOrderState;
-import seo.dale.practice.pattern.state.vending.state.SelectableState;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;

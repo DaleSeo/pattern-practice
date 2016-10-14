@@ -1,4 +1,7 @@
 # Pattern Practice
 
 ## State Pattern
-- seo.dale.practice.pattern.state.vending.VendingMachine
+- seo.dale.practice.pattern.state
+
+## Proxy Pattern
+- seo.dale.practice.pattern.proxy

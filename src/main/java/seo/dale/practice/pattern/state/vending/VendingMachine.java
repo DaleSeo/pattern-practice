@@ -1,8 +1,6 @@
 package seo.dale.practice.pattern.state.vending;
 
 import seo.dale.practice.pattern.state.vending.model.Product;
-import seo.dale.practice.pattern.state.vending.state.NoMoneytate;
-import seo.dale.practice.pattern.state.vending.state.VendingMachineState;
 
 public class VendingMachine {
 

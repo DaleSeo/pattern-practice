@@ -1,6 +1,5 @@
-package seo.dale.practice.pattern.state.vending.state;
+package seo.dale.practice.pattern.state.vending;
 
-import seo.dale.practice.pattern.state.vending.VendingMachine;
 import seo.dale.practice.pattern.state.vending.model.Product;
 
 public class OutOfOrderState implements VendingMachineState {
