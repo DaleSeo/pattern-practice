@@ -1,10 +1,9 @@
 # Pattern Practice
 
-## State Pattern
-- seo.dale.practice.pattern.state
+## [State Pattern](src/main/seo/dale/practice/pattern/state)
 
-## Proxy Pattern
-- seo.dale.practice.pattern.proxy
+## [Proxy Pattern](src/main/seo/dale/practice/pattern/proxy)
 
-## Observer Pattern
-- seo.dale.practice.pattern.observer
+## [Observer Pattern](src/main/seo/dale/practice/pattern/observer)
+
+## [Command Pattern]
